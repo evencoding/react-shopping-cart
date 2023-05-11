@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-shopping-cart/static/js/main.b90e50dc.js",
+    "static/media/Baemin.ttf": "/react-shopping-cart/static/media/Baemin.d20f6c68004f7588ee16.ttf",
+    "static/media/CartIcon.svg": "/react-shopping-cart/static/media/CartIcon.1b997ecfbbe5f5bb87f068599663878b.svg",
+    "static/media/CartLogo.svg": "/react-shopping-cart/static/media/CartLogo.da82aaf0d9b5a13c5081108ad03dae14.svg",
+    "index.html": "/react-shopping-cart/index.html",
+    "main.b90e50dc.js.map": "/react-shopping-cart/static/js/main.b90e50dc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b90e50dc.js"
+  ]
+}
